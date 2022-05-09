@@ -1,0 +1,17 @@
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.deps.json
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.runtimeconfig.json
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\ref\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\bin\Debug\net6.0\CadastroUsuario.Domain.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.AssemblyInfo.cs
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.csproj.CopyComplete
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\ref\CadastroUsuario.Infrastructure.dll
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.pdb
+C:\Users\filipe.regis\source\repos\CadastroUsuario\CadastroUsuario.Infrastructure\obj\Debug\net6.0\CadastroUsuario.Infrastructure.genruntimeconfig.cache
